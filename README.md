@@ -13,7 +13,7 @@ This repository contains research and experimentation with deep learning models 
 - Description: This notebook explores the Vision Transformer model for kidney cancer classification. ViT has gained popularity for its attention-based approach to processing images, showing promising results in various vision tasks.
 
 ### 3. Support Vector Machine (SVM)
-- **File**: `svm.ipynb`
+- **File**: `Kidney_Detection_SVM.ipynb`
 - Description: This notebook investigates the use of Support Vector Machine (SVM) for kidney cancer classification. SVM is a classical machine learning algorithm known for its effectiveness in binary classification tasks.
 
 ### 4. Van Model
