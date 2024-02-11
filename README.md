@@ -1,6 +1,6 @@
 # Deep Learning Research on Kidney Cancer
 
-This repository contains research and experimentation with deep learning models for kidney cancer classification. We explore various models including MobileNet, Vision Transformer (ViT), Support Vector Machine (SVM), and Van model. Each model is implemented in a separate Jupyter notebook for clarity and ease of understanding.
+This repository contains research and experimentation with deep learning models for kidney cancer classification. Explored various models including MobileNet, Vision Transformer (ViT), Support Vector Machine (SVM), and Van model. Each model is implemented in a separate Jupyter notebook for clarity and ease of understanding.
 
 ## Models
 
